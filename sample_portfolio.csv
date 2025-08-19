@@ -1,0 +1,6 @@
+exchange,symbol,quantity,avg_price,sector
+NSE,RELIANCE.NS,12,2500,
+NSE,TCS.NS,10,3400,
+NASDAQ,AAPL,8,180,
+NASDAQ,MSFT,5,330,
+NYSE,JNJ,6,160,
